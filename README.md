@@ -1,2 +1,2 @@
-# POODR-Sandi-Metz-
+# POODR (Sandi Metz).
 Examples good and bad code.
